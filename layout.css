@@ -121,6 +121,7 @@ div.h2bottom h2 {
   .grid_2 {
     display: flex;
     justify-content: space-between; /* Space out the items evenly */
-    gap: 20px; /* Space between items (optional, overrides margin) */
+    gap: 20px;
+    /* Space between items (optional, overrides margin) */
   }
 }
