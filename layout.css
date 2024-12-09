@@ -123,5 +123,6 @@ div.h2bottom h2 {
     justify-content: space-between; /* Space out the items evenly */
     gap: 20px;
     /* Space between items (optional, overrides margin) */
+    /* Space between items (optional, overrides margin) */
   }
 }
